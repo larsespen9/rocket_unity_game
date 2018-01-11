@@ -89,7 +89,7 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaIndirect: 2
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ShowResolutionOverlay: 1
-  m_LightingDataAsset: {fileID: 112000002, guid: 40a684643624141f887aaf561223de0a,
+  m_LightingDataAsset: {fileID: 112000002, guid: 03b6b41193ea04a50bfc192538353072,
     type: 2}
   m_UseShadowmask: 1
 --- !u!196 &4
@@ -655,10 +655,10 @@ Prefab:
         type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: c57eb5a06b5d54a3e8359007010e3d6f, type: 2}
+      objectReference: {fileID: 2100000, guid: 57a271d958f4f460ca8e3a5c637729bb, type: 2}
     - target: {fileID: 1762883100523438, guid: b59d9f205d8ee4ee49635958afe4a6c3, type: 2}
       propertyPath: m_TagString
-      value: Untagged
+      value: Finish
       objectReference: {fileID: 0}
     - target: {fileID: 4133675174839836, guid: b59d9f205d8ee4ee49635958afe4a6c3, type: 2}
       propertyPath: m_LocalScale.x
@@ -1499,16 +1499,16 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1762883100523438, guid: b59d9f205d8ee4ee49635958afe4a6c3, type: 2}
       propertyPath: m_Name
-      value: Grass
+      value: LandingPad (1)
       objectReference: {fileID: 0}
     - target: {fileID: 23080534034067720, guid: b59d9f205d8ee4ee49635958afe4a6c3,
         type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 46a44962dc0aa4d8da437ec26d7325b2, type: 2}
+      objectReference: {fileID: 2100000, guid: 79eb98797b2034b7a83b3ed6310ac3f2, type: 2}
     - target: {fileID: 1762883100523438, guid: b59d9f205d8ee4ee49635958afe4a6c3, type: 2}
       propertyPath: m_TagString
-      value: Untagged
+      value: Finish
       objectReference: {fileID: 0}
     - target: {fileID: 4133675174839836, guid: b59d9f205d8ee4ee49635958afe4a6c3, type: 2}
       propertyPath: m_LocalScale.x
@@ -1630,19 +1630,19 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4895094966659542, guid: f08043417b9784ce991387a896117315, type: 2}
       propertyPath: m_LocalRotation.x
-      value: -0.32371727
+      value: -0.3237173
       objectReference: {fileID: 0}
     - target: {fileID: 4895094966659542, guid: f08043417b9784ce991387a896117315, type: 2}
       propertyPath: m_LocalRotation.y
-      value: 0.7513101
+      value: 0.75131017
       objectReference: {fileID: 0}
     - target: {fileID: 4895094966659542, guid: f08043417b9784ce991387a896117315, type: 2}
       propertyPath: m_LocalRotation.z
-      value: 0.117751606
+      value: 0.11775161
       objectReference: {fileID: 0}
     - target: {fileID: 4895094966659542, guid: f08043417b9784ce991387a896117315, type: 2}
       propertyPath: m_LocalRotation.w
-      value: 0.5629162
+      value: 0.5629163
       objectReference: {fileID: 0}
     - target: {fileID: 4895094966659542, guid: f08043417b9784ce991387a896117315, type: 2}
       propertyPath: m_RootOrder
@@ -2101,7 +2101,7 @@ Prefab:
         type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 79eb98797b2034b7a83b3ed6310ac3f2, type: 2}
+      objectReference: {fileID: 2100000, guid: f902148390b6848b8b4120923b3e36b7, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f08043417b9784ce991387a896117315, type: 2}
   m_IsPrefabParent: 0
@@ -2164,7 +2164,7 @@ Prefab:
         type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: c7f3a8a846d0947e3b6fde03e4e009f8, type: 2}
+      objectReference: {fileID: 2100000, guid: afdcb763670d1458097f8b0452e889dc, type: 2}
     - target: {fileID: 4865348105984626, guid: 9a06d00cf2bb24766b6ecfe9dcd71108, type: 2}
       propertyPath: m_LocalScale.z
       value: 32.866962
@@ -3053,7 +3053,7 @@ Prefab:
       objectReference: {fileID: 2100000, guid: 57a271d958f4f460ca8e3a5c637729bb, type: 2}
     - target: {fileID: 1762883100523438, guid: b59d9f205d8ee4ee49635958afe4a6c3, type: 2}
       propertyPath: m_TagString
-      value: Untagged
+      value: Finish
       objectReference: {fileID: 0}
     - target: {fileID: 4133675174839836, guid: b59d9f205d8ee4ee49635958afe4a6c3, type: 2}
       propertyPath: m_LocalScale.z
